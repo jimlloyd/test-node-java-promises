@@ -1,0 +1,19 @@
+{
+  "name": "test-node-java-promises",
+  "version": "0.0.1",
+  "description": "test node-java promises",
+  "main": "index.js",
+  "dependencies": {
+    "java": "git://github.com/joeferner/node-java.git#23b6f586055d7d71fd8fbf410ac6f4fe3a84e1ae"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "promises"
+  ],
+  "author": "Jim Lloyd <jim.lloyd@gmail.com>",
+  "license": "ISC"
+}
